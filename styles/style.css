@@ -1,0 +1,213 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	font-family: "Poiret One", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	color: #E2E2E2;
+	text-align: center;
+	}
+	
+#name {
+	font-size: 100px;
+	width: 800px;
+	height: 500px;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 150px;
+	background: rgba(255,255,255,0.5);
+	border: 1px none #FFF;
+	clear:both;
+	padding-bottom: 20px;
+	padding-top: 150px;
+	color:rgba(0,0,0,1.00);
+	}
+	
+header {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	background-color: #000;
+	z-index: 1;
+	}
+	
+html {
+   height:100%;
+   background-image: url(../images/waterpaint1.jpg);
+   background-position:center;
+   background-repeat:no-repeat;
+   background-size:cover;
+   background-attachment:fixed;
+}
+
+	
+p {
+	font-size: 25px;
+}
+
+.poster {
+	margin: 58px;
+}
+
+h1 {
+	float:left;
+	margin-left: 15px;
+}
+
+
+nav {
+	text-align: right;
+	float: right;
+	position: relative;
+	top: 3em;
+}
+
+
+#top {
+	margin: 82px;
+	font-size: 20px
+}
+
+.picandtext {
+	font-size: 20px;
+}
+
+
+	
+.all {
+	width: 960px;
+	margin: 0 auto;
+	background: rgba(0,0,0,.5);
+	border: 1px none #FFF;
+	clear:both;
+	padding-bottom: .5cm;
+}
+
+
+.picandtext {
+	width: 600px;
+	margin: 0 auto;
+}
+
+
+nav a{
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-right: 30px;
+	vertical-align:text-bottom;
+
+}
+
+
+.text-bottom {
+	vertical-align:text-bottom;
+}
+
+
+.picandtext img {
+	float:left;
+}
+
+
+.picandtext figcaption {
+	position:relative;
+	top: 2em;
+	margin-top:2em;
+}
+
+	
+
+
+
+.we {
+	margin: 60px auto;
+}
+
+
+#intro {
+	width: 600px;
+	margin: 70px 180px;
+	clear:both;
+	text-align: justify;
+	font-size: 22px;
+	padding-top: .5cm;
+	line-height: 2em;
+	}
+	
+	
+	
+	
+	
+	
+.port {
+	text-align:left;
+	font-size: 25px;
+	padding-top: 5px;
+}
+
+h2 {
+	font-size: 50px;
+	margin: 60px;
+	padding-top: 80px;
+	padding-bottom: 10px;
+}
+
+#hello {
+	margin-top: 82px;
+	padding-top: 20px;
+	border: #FFFFFF double 10px; 
+}
+
+
+#digital {
+	margin-top: 82px;
+	padding-top: 20px;
+	border: #FFFFFF double 10px; 
+}
+
+
+h3 {
+	font-size: 35px;
+	margin: 30px 50px;
+}
+
+a:link { 
+    color: #FFFFFF;
+	text-decoration: none;
+}
+
+
+#contact {
+	font-size: 20px;
+	background: #000000;
+	position: fixed;
+  	bottom: 0px;
+	left: 0px;
+	right: 0px;	
+}
+
+a:visited {
+		color: white;
+}
+
+
+a:hover {
+		color: #E000A9;
+	}
+
+	
+figure {
+		align: center;
+		width: 800;
+		margin-bottom:100px;
+	}
+	
+
+#me {
+	position: fixed;
+	align: center;
+	margin: auto 200px;
+}

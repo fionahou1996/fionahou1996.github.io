@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: "Poiret One", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	color: #D6D6D6;
+	background-color: #000000
+	}
+	
+	
+	
+nav a{
+	color: #D6D6D6;
+	text-decoration: none;
+
+}
+
+	
+	a:hover {
+		color: #E000A9
+	}
